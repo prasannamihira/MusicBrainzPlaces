@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="map_loading_error">An error occurred while loading the map</string>
+</resources>
